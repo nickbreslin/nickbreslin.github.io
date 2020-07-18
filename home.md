@@ -1,6 +1,6 @@
 # Welcome
 
-### I build great projects with good people.
+### I build great software with good people.
 
 - I champion honest communication and feedback.
 - I work with proven, reliable technology over "Shiny New Things".
@@ -9,7 +9,7 @@
 
 ## Philosophy
 
-I am a philosophical follower of Marcus Aurelius, and the teachings of Stoicism.
+I am a follower of Marcus Aurelius, and the teachings of Stoicism.
 
 I am a practioner of the Agile Manifesto and servant leader to my team members.
 
