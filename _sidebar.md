@@ -12,6 +12,3 @@
 [GitHub](https://github.com/nickbreslin)
 [LinkedIn](https://www.linkedin.com/in/nickbreslin)
 [Twitter](https://twitter.com/devbreslin)
-[Reddit](https://reddit.com/u/devbreslin)
-
-
