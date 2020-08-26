@@ -1,9 +1,10 @@
 # Welcome
 
-### I build great software with good people.
+### I build valuable software with talented people.
 
+- I consider teambuilding to be one of the most important activities.
 - I champion honest communication and feedback.
-- I work with proven, reliable technology over "Shiny New Things".
+- I prefer proven, reliable technology over "Shiny New Things".
 - I evaluate solutions based on business requirements.
 - I minimizing cost and time, while ensuring quality and satisfaction.
 
@@ -13,23 +14,23 @@ I am a follower of Marcus Aurelius, and the teachings of Stoicism.
 
 I am a practioner of the Agile Manifesto and servant leader to my team members.
 
+Trust and respect should be shared between team members and leadership structures.
 
 ## Passion for Education
 
-I mentor junior developers (student workers) at Oregon State University modern, accessible, responsive web development. We practice Agile project management (both Scrum and Kanban).
+I mentor junior developers (student workers) at Oregon State University on modern, accessible, responsive web development. We practice Agile project management (both Scrum and Kanban).
 
-I have mentored elementary and secondary school students in basic web development and game development.
+I have taught elementary and secondary school students in basic web development and game development.
 
-I have supported and taught Agile inside and outside of my employment for the past decade. I am certified as an Agile Product Owner and Scrum Master by Scrum.org.
+I have supported and taught Agile inside and outside of my employment for over a decade. I am certified as an Agile Product Owner and Scrum Master by Scrum.org.
 
 ## Work History
 
 ### Oregon State University, Ecampus <small>2018 - Present</small>  {docsify-ignore}
-Senior Developer, Web Team Lead
-Product Owner for several
+web team lead, senior developer, product owner, agile coach on the Multimedia Development team.
 
 ### Avalara <small>2012-2017</small> {docsify-ignore}
-engineering lead, systems architect, devops engineer and systems administrator on the Marketing Technology team.
+engineering lead, systems architect, devops engineer, and systems administrator on the Marketing Technology team.
 
 ### Overinteractive Media/Dimerocker <small>2010-2012</small> {docsify-ignore}
 product owner, lead developer, game designer
